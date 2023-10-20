@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- ⚡ Fun fact **I like travelling in mountains**
+- ⚡ Fun fact **I like Cats 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
