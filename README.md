@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam Vij</h1>
-<h3 align="center">Just a guy who loves to workout</h3>
+<h3 align="center">Average Guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam-vij&label=Profile%20views&color=0e75b6&style=flat" alt="swayam-vij" /> </p>
 
